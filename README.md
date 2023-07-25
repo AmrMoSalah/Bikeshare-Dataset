@@ -7,4 +7,5 @@ In this project, I will use data provided by Motivate, a bike-share system provi
 this Project aims to Use descriptive statistics to answer questions about the data. Raw data is displayed
 upon request by the user.
 the packages used to do that 'pandas' to read the CSV files #included in the repo
+
 Numpy to do the descriptive statistics needed for answering the questions 
